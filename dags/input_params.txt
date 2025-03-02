@@ -1,0 +1,21 @@
+untuk csv 
+url: 
+https://raw.githubusercontent.com/codeforamerica/ohana-api/master/data/sample-csv/addresses.csv
+
+file_type:
+csv
+
+table_name:
+addresses
+
+
+
+untuk json
+url:
+https://jsonplaceholder.typicode.com/posts
+
+file_type:
+json
+
+table_name:
+posts
